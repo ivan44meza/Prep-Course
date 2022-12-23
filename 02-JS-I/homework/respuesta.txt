@@ -1,0 +1,5 @@
+Variables: Elementos capaces de almacenar datos, pero solo pueden guardar un tipo de dato, es decir, o solo numeros o solo string etc.
+Strings: Tipo de datos que solo son de lectura, estos se escriben entre comillas siempre
+Funciones: Reciben uno o varios argumentos con los cuales realiza las operaciones que se le hayan pedido, tiene variables independientes de las que se pueden crear por fuera de ellas y son variables que solo se pueden llamar dentro de si mismas por lo que cuando el codigo haya terminado de ejecutar la funcion, dejara de existir esa variable
+Declaraciones (if): Son statements que comprueban si una expresion es verdadera o no, si lo es ejecuta los comandos que se le permitan, y si no lo es sigue con el codigo
+Valores Booleanos: Solo existen dos valores booleanos, verdadero o falso, estos son la base de la computacion
