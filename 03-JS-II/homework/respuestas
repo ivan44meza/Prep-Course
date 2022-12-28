@@ -1,2 +1,2 @@
-respuestas
-
+for: Es un statement que se escribe en el codigo con el fin de repetir codigo hasta llegar a la respuesta que buscamos
+Operadores logicos: son operadores que nos permite combinar dos expresiones de igualdad, para saber si se cumple una o ninguna o ambas, dependiendo de nuestra necesidad, esta el operador NOT que cambia el resultado que halla encontrado de nuestra igualdad, es decir si el resultado que buscamos nos da true, este nos devuelve false
