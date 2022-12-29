@@ -1,0 +1,1 @@
+Arrays: Conjuntos de elementos que se puede iterar, o acceder a sus elementos con un ciclo for, se pueden agregar y eliminar elementos y, por la caracteriztica de javascript de ser un lenguaje poco tipado, no es necesario que los elementos sean del mismo tipo
