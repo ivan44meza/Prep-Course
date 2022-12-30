@@ -1,0 +1,5 @@
+Objetos: Todo en Javascript es un objeto, tienen parejas key-value. Cada key puede contener cualquier otro tipo de dato de Javascript, sea matriz, numero, cadena o incluso objetos
+Propiedades: Los objetos tienen propiedades a las que podemos acceder y eliminar, son conocidos como las keys del objeto.
+Metodos: Dentro de los objetos se pueden definir funciones, que tienen diferentes instrucciones que se ejecutan dentro el objeto, se conocen metodos como el push el pop, que son metodos dentro de los objetos Array
+Bucle for...in: Este bucle for, a diferencia del mas comun, nos permite ingresar a cada key del objeto independientemente, es decir nos permite iterar por los keys de el objeto
+Notacion de puntos vs notacion de corchetes: La notacion de punto es mas sencilla que la de corchetes pero ambas nos permiten obtener el value que se encuentre en el key que le pasemos
