@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url("https://www.elcorral.com/img/our-cart/el-corral-hamburguesas-corral..png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.divClass h1 {
+	color: mediumslateblue;
+	margin: 10px;
+}
+
+.divClass{
+	max-width: 600px;
+	margin: 20px auto;
+	padding: 5px;
+	text-align: center;
+}
+
+#thirdDiv{
+	height: 600px;
+	width: 500px;
+	background-color: blanchedalmond;
+	padding: 50px;
+	border: 5px double sienna;
+	border-radius: 20px;
+}
+
+#thirdDiv img{
+	height: 400px;
+}
+
+#spanId{
+	font-size: 18px;
+	margin: 50px;
+}
